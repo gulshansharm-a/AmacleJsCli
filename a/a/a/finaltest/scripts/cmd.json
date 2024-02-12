@@ -1,0 +1,10 @@
+[
+    {
+        "migrations": [
+            {
+                "name":"TestMigration"    
+        },
+            {"name":"TestMigration2"}
+        ]
+    }
+]
